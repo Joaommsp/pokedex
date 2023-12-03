@@ -1,0 +1,56 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f8fc;
+}
+
+.content {
+  padding: 1rem;
+  background-color: #FFF;
+  height: 100vh;
+}
+
+.title {
+  margin-right: 2rem;
+  font-size: 2em;
+}
+
+#pokebolaImg {
+  width: 100px;
+  scale: 1;
+  transition: .5s;
+}
+
+#pokebolaImg:hover {
+  scale: 1.1;
+}
+
+@media screen and (min-width: 380px) {
+  .pokemons {
+   grid-template-columns: 1fr 1fr;
+   margin: 0 auto;
+   height: auto;
+   max-width: 992;
+   border-radius: 1rem;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .pokemons {
+   grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .pokemons {
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   margin: 0 auto;
+   height: auto;
+   max-width: 992;
+   border-radius: 1rem;
+  }
+}
+
