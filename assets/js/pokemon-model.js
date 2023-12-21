@@ -1,4 +1,3 @@
-
 class Pokemon {
   number;
   name;
@@ -6,3 +5,4 @@ class Pokemon {
   types = [];
   photo;
 }
+
