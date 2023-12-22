@@ -11,13 +11,12 @@ Usando a api pokeapi.co , desenvolvi em aula pela DIO - Potência Tech iFood - D
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![](img/photo1.jpeg)
+![](img/photo3.jpeg)
 
 ## Mobile
 ![](img/photo2.jpeg)
+![](img/photo4.jpeg)
 
-## Code
-![](img/code1.png)
-![](img/code2.png)
-![](img/code3.png)
+
 
 
