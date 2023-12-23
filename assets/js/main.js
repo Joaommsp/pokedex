@@ -4,9 +4,9 @@ let pokePopUp = document.getElementById('pokePopUp')
 let body = document.querySelector('body')
 let closePopUpBtn = document.getElementById('closePopUp')
 
-pokePopUp.addEventListener('mouseleave', () => {
-  pokePopUp.classList.add('displayNone')
-})
+// pokePopUp.addEventListener('mouseleave', () => {
+//   pokePopUp.classList.add('displayNone')
+// })
 closePopUpBtn.addEventListener('click', () => {
   pokePopUp.classList.add('displayNone')
 })

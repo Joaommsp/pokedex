@@ -110,6 +110,10 @@ body {
   margin-top: 2rem;
 }
 
+.pokemon {
+  overflow: hidden;
+}
+
 #pokeDetails {
   border-top-left-radius: 500px;
   border-top-right-radius: 500px;
