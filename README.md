@@ -9,6 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -40,7 +42,7 @@ cd pokedex
 use a extensão Live Server do VS CODE ou semelhante para executar o projeto em um servidor local ( localhost )
 ```
 
-<img src="./imagens/readme/liverserver.png" alt="..." style="max-width: 100px;">
+<img src="/img/live-server-logo.png" alt="..." style="max-width: 100px;">
 
 ## 💻 Um pouco do projeto
 
