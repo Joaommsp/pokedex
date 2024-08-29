@@ -42,7 +42,7 @@ cd pokedex
 use a extensão Live Server do VS CODE ou semelhante para executar o projeto em um servidor local ( localhost )
 ```
 
-<img src="/img/live-server-logo.png" alt="..." style="max-width: 100px;">
+<img src="/img/live-server-logo.png" alt="..." width="100">
 
 ## 💻 Um pouco do projeto
 
