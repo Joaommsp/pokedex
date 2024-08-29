@@ -1,22 +1,70 @@
 # Pokedex
 
-## Listagem de pokemons com API
+### Projeto obrigatório para todo Dev em formação 😂
 
-Usando a api pokeapi.co , desenvolvi em aula pela DIO - Potência Tech iFood - Desenvolvimento de Jogos , essa listagem de pokemons usando JavaScript
+<div align="left">
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-### Construído com
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="./img/photo1.jpeg" alt="cover">
 
-![](img/photo1.jpeg)
-![](img/photo3.jpeg)
+> Usando a API pokeapi.co , desenvolvi essa listagem de pokemons usando JavaScript.
 
-## Mobile
-![](img/photo2.jpeg)
-![](img/photo4.jpeg)
+### API
+
+<a href="https://pokeapi.co/docs/v2#pokemon-section" ><img src="./img/poke-api-logo.png" alt="poke-api"></a>
+
+> Clique e acesse a documentação 
 
 
+## 🚀 Instalando
+
+Windows:
+
+```
+git clone https://github.com/Joaommsp/pokedex.git
+```
+
+```
+cd pokedex
+```
+
+```
+use a extensão Live Server do VS CODE ou semelhante para executar o projeto em um servidor local ( localhost )
+```
+
+<img src="./imagens/readme/liverserver.png" alt="..." style="max-width: 100px;">
+
+## 💻 Um pouco do projeto
+
+<img src="./img/photo1.jpeg" alt="slider">
+
+<img src="./img/photo3.jpeg" alt="slider">
+
+## 📱 Mobile
+
+<table>
+  <tr>
+    <td><img src="./img/photo2.jpeg" alt="Imagem 1" width="300"/></td>
+    <td><img src="./img/photo4.jpeg" alt="Imagem 2" width="300"/></td>
+  </tr>
+</table>
+
+## 🔗 Deploy
+
+Clique e acesse o projeto hospedado no Github pages
+
+<div align="left">
+ <a href="https://joaommsp.github.io/pokedex/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
+</div>
+
+## 🤓 Me acompanhe para mais projetos
 
 
